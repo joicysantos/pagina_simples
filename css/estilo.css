@@ -1,11 +1,12 @@
 body {
-  background-color: #f0f8ff;
+  background-color: #C8A2C8;
+  color: #222;
   padding: 20px;
   font-family: Arial, sans-serif;
 }
 
 h1 {
-  color: #2e8b57;
+  color: purple;
   text-align: center;
 }
 
